@@ -1,17 +1,15 @@
 ### Nigeria-Public-Health-Analysis
 This project examines Nigerian public health data to uncover patterns in diseases, treatment outcomes, and healthcare delivery. Tools used include Microsoft Excel for data cleaning, analysis, and dashboard creation.
 
-## About This Portfolio Template
-
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
-
 ## Problem Statement
 
 Healthcare organizations require reliable data to monitor disease prevalence, treatment success rates, patient outcomes, and healthcare costs. This project seeks to identify key health trends and evaluate healthcare performance across different states and facility types.
+
+## Dataset Preview
+
+![Dataset](images/NPH2.png)
+![Dataset](images/NPH5.png)
+
 
 ## Objectives
 Analyze disease distribution across Nigeria.
