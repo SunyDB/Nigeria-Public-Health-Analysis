@@ -20,29 +20,43 @@ Healthcare organizations require reliable data to monitor disease prevalence, tr
 5. Identify areas for improving healthcare delivery
 
 ## Tools Used
-Microsoft Excel
-Pivot Tables
-Data Cleaning Techniques
-Data Visualization
-Dashboard Design
-Data Cleaning Process
+- Microsoft Excel
+- Pivot Tables
+- Data Cleaning Techniques
+- Data Visualization
+- Dashboard Design
+- Data Cleaning Process
 
 The dataset was cleaned by:
 
-Removing duplicate records.
-Handling missing values.
-Standardizing disease names.
-Identifying inconsistent entries.
-Correcting data quality issues.
-Key Performance Indicators (KPIs)
-Total Patients
-Treatment Success Rate
-Mortality Rate
-Average Treatment Cost
-Average Days to Treatment
-Disease Distribution
-Facility Performance
+- Removing duplicate records.
+- Handling missing values.
+- Standardizing disease names.
+- Identifying inconsistent entries.
+- Correcting data quality issues.
 
+
+## Key Performance Indicators (KPIs)
+- Total Patients
+- Treatment Success Rate
+- Mortality Rate
+- Average Treatment Cost
+- Average Days to Treatment
+- Disease Distribution
+- Facility Performance
+
+## Dashboard Preview
+
+![Dashboard](images/Public_health_dashboard.png)
+
+The dashboard provides insights into:
+
+Disease distribution.
+Treatment outcomes.
+Facility performance.
+Patient demographics.
+Treatment costs.
+Healthcare trends.
 
 ## Key Findings
 1. High Treatment Success Rate
@@ -71,27 +85,15 @@ Negative treatment costs.
 Some patients experienced significant delays before receiving treatment, which may affect health outcomes.
 
 ## Recommendations
-Standardize disease names and data entry processes.
-Implement data validation rules to reduce errors.
-Improve early diagnosis and treatment access.
-Strengthen healthcare reporting systems.
-Increase awareness programs for common diseases.
-Monitor treatment delays to improve patient outcomes.
-Conduct regular data quality assessments.
-Dashboard Features
+- Standardize disease names and data entry processes.
+- Implement data validation rules to reduce errors.
+- Improve early diagnosis and treatment access.
+- Strengthen healthcare reporting systems.
+- Increase awareness programs for common diseases.
+- Monitor treatment delays to improve patient outcomes.
+- Conduct regular data quality assessments. Dashboard Features
 
-## Dashboard Preview
 
-![Dashboard](images/Public_health_dashboard.png)
-
-The dashboard provides insights into:
-
-Disease distribution.
-Treatment outcomes.
-Facility performance.
-Patient demographics.
-Treatment costs.
-Healthcare trends.
 
 
 ## Conclusion
