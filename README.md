@@ -13,11 +13,11 @@ Healthcare organizations require reliable data to monitor disease prevalence, tr
 
 
 ## Objectives
-Analyze disease distribution across Nigeria.
-Evaluate treatment success and mortality rates.
-Examine treatment costs and healthcare access.
-Compare healthcare outcomes across facility types.
-Identify areas for improving healthcare delivery.
+Analyze disease distribution across Nigeria
+Evaluate treatment success and mortality rates
+Examine treatment costs and healthcare access
+Compare healthcare outcomes across facility types
+Identify areas for improving healthcare delivery
 
 ## Tools Used
 Microsoft Excel
@@ -82,7 +82,7 @@ Dashboard Features
 
 ## Dashboard Preview
 
-![Dashboard](images/Public)
+![Dashboard](images/Public_health_dashboard.png)
 
 The dashboard provides insights into:
 
