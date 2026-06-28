@@ -43,7 +43,9 @@ Average Treatment Cost
 Average Days to Treatment
 Disease Distribution
 Facility Performance
-Key Findings
+
+
+## Key Findings
 1. High Treatment Success Rate
 
 Approximately 79% of patients recorded successful treatment outcomes, indicating generally positive healthcare interventions.
@@ -78,6 +80,10 @@ Increase awareness programs for common diseases.
 Monitor treatment delays to improve patient outcomes.
 Conduct regular data quality assessments.
 Dashboard Features
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 The dashboard provides insights into:
 
