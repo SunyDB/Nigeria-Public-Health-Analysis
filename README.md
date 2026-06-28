@@ -51,12 +51,12 @@ The dataset was cleaned by:
 
 The dashboard provides insights into:
 
-Disease distribution.
-Treatment outcomes.
-Facility performance.
-Patient demographics.
-Treatment costs.
-Healthcare trends.
+- Disease distribution.
+- Treatment outcomes.
+- Facility performance.
+- Patient demographics.
+- Treatment costs.
+- Healthcare trends.
 
 ## Key Findings
 1. High Treatment Success Rate
